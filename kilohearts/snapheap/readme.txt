@@ -1,3 +1,3 @@
 presets for snapheap
 
-%USERPROFILE%\Documents\Kilohearts\presets\Multipass\User Presets
+%USERPROFILE%\Documents\Kilohearts\presets\Snap Heap\User Presets
