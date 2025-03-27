@@ -16,3 +16,7 @@ _
 
 Python: https://www.python.org/downloads/
 Mido library: pip install mido
+
+_
+
+When I made this, GPT was not as capable as it is now. You can likely generate midi files directly from a prompt.
